@@ -5,3 +5,4 @@
 - Manzana
 - Pera
 - Kiwi
+- Sandía
