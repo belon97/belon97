@@ -1,20 +1,13 @@
 # .github/release.yml
 
 changelog:
-  exclude:
-    labels:
-      - ignore-for-release
-    authors:
-      - belon97
   categories:
-    - title: Breaking Changes 🛠
+    - title: Features
       labels:
-        - Updating-featues
-        - breaking-change
-    - title: Exciting New Features 🎉
+        - '*'
+      exclude:
+        labels:
+          - dependencies
+    - title: 👒 Dependencies
       labels:
-        - Updating-featues
-        - enhancement
-    - title: Other Changes
-      labels:
-        - "*"
+        - dependencies
