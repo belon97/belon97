@@ -6,3 +6,7 @@
 - Pera
 - Kiwi
 - Sandía
+- Choclo
+- Arroz
+- Polenta
+- Agua
