@@ -1,7 +1,12 @@
 ## Lista de compras
-- Banana
-- Mandarina
-- Palta
-- Manzana
-- Pera
-- Kiwi
+- ~~Banana~~
+- ~~Mandarina~~
+- ~~Palta~~
+- ~~Manzana~~
+- ~~Pera~~
+- ~~Kiwi~~
+- Sandía
+- ~~Choclo~~
+- Arroz
+- ~~Polenta~~
+- ~~Agua~~
