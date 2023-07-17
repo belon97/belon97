@@ -7,6 +7,6 @@
 - ~~Kiwi~~
 - Sandía
 - ~~Choclo~~
-- Arroz
+- ~~Arroz~~
 - ~~Polenta~~
 - ~~Agua~~
