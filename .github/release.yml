@@ -2,18 +2,14 @@
 
 changelog:
   categories:
-    - title: Enhacements
+    - title: Feature
       labels:
-        - release
         - enhacements
+        - release
       exclude:
         labels:
           - fix
     - title: Fix
       labels:
-      	- release
+        - release
         - fix
-        exclude:
-        labels:
-          - feature
-        
