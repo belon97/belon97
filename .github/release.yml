@@ -2,7 +2,7 @@
 
 changelog:
   categories:
-    - title: 🎀 Enhancements
+    - title: 🎀 Enhancements!
       labels:
         - enhancements
         - release
@@ -10,7 +10,7 @@ changelog:
         labels:
           - fix
           - enhancements
-    - title: 🛠 Fix
+    - title: 🛠 Fix!
       labels:
         - fix
         - release
@@ -18,7 +18,7 @@ changelog:
         labels:
           - enhacements
           - feature
-      - title: 🎉 Feature
+      - title: 🎉 Feature!
         labels:
           - feature
           - release
