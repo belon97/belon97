@@ -2,14 +2,28 @@
 
 changelog:
   categories:
-    - title: Feature
+    - title: 🎀 Enhancements
       labels:
-        - enhacements
+        - enhancements
         - release
       exclude:
         labels:
           - fix
-    - title: Fix
+          - enhancements
+    - title: 🛠 Fix
       labels:
-        - release
         - fix
+        - release
+      exclude:
+        labels:
+          - enhacements
+          - feature
+      - title: 🎉 Feature
+        labels:
+          - feature
+          - release
+        exclude:
+          labels:
+            - fix
+            - enhancements
+            
