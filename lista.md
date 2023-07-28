@@ -4,7 +4,7 @@
 - ~~Palta~~
 - ~~Manzana~~
 - ~~Pera~~
-- ~~Kiwi~~
+- Kiwi
 - Sandía
 - ~~Choclo~~
 - ~~Arroz~~
