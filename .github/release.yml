@@ -18,12 +18,11 @@ changelog:
         labels:
           - enhacements
           - feature
-      - title: 🎉 Feature!
-        labels:
+    - title: 🎉 Feature!
+      labels:
           - feature
           - release
-        exclude:
-          labels:
-            - fix
-            - enhancements
-            
+      exclude:
+        labels:
+          - fix
+          - enhancements
