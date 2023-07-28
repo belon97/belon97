@@ -9,7 +9,7 @@ changelog:
       exclude:
         labels:
           - fix
-          - enhancements
+          - feature
     - title: 🛠 Fix!
       labels:
         - fix
